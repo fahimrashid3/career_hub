@@ -8,7 +8,7 @@ import Home from "./components/Home/Home";
 import AppliedJobs from "./components/AppliedJobs/AppliedJobs";
 import Jobs from "./Jobs/Jobs";
 import Statistics from "./components/Statistics/Statistics";
-import ErrorPage from "./components/ErropPage/ErrorPage";
+import ErrorPage from "./components/ErrorPage/ErrorPage";
 const router = createBrowserRouter([
   {
     path: "/",
